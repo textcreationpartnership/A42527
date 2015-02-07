@@ -908,14 +908,17 @@ Pommel to the point.</p>
 broader and more crooked than the
 Shable; uſed more by the Turks, Perſians
 and Hungarians, than others.</p>
-                     <figure>
-                        <head>A Souldier on his Guard.</head>
-                        <p>The Eſpadon or two Handed Sword.</p>
-                        <p>The Shable.</p>
-                        <p>The Cimeter</p>
-                        <p>The Bayonet.</p>
-                        <p>The Ponyard.</p>
-                     </figure>
+                     <p>
+                        <pb facs="tcp:33517:16"/>
+                        <figure>
+                           <head>A Souldier on his Guard.</head>
+                           <p>The Eſpadon or two Handed Sword.</p>
+                           <p>The Shable.</p>
+                           <p>The Cimeter</p>
+                           <p>The Bayonet.</p>
+                           <p>The Ponyard.</p>
+                        </figure>
+                     </p>
                   </div>
                   <div n="3" type="section">
                      <pb facs="tcp:33517:17"/>
@@ -978,9 +981,13 @@ there to adorn their Parapets.</p>
                      <p>
                         <hi>Swords of all Faſhions.</hi>
                      </p>
-                     <figure>
-                        <head>Swords of all Sorts.</head>
-                     </figure>
+                     <p>
+                        <pb facs="tcp:33517:18"/>
+                        <pb facs="tcp:33517:19"/>
+                        <figure>
+                           <head>Swords of all Sorts.</head>
+                        </figure>
+                     </p>
                      <list>
                         <pb n="15" facs="tcp:33517:19"/>
                         <head>The Explication of this Figure.</head>
@@ -1102,12 +1109,15 @@ of a Musketteer, who preſents to Fire.</head>
                         <item>F, The Flasks or Charges.</item>
                         <item>G, The Match.</item>
                      </list>
-                     <figure>
-                        <head>The Armature of a Muſketeer preſenting to fire.</head>
-                        <p>The Muſket.</p>
-                        <p>The Fire Lock.</p>
-                        <p>Double headed ſhot.</p>
-                     </figure>
+                     <p>
+                        <pb facs="tcp:33517:21"/>
+                        <figure>
+                           <head>The Armature of a Muſketeer preſenting to fire.</head>
+                           <p>The Muſket.</p>
+                           <p>The Fire Lock.</p>
+                           <p>Double headed ſhot.</p>
+                        </figure>
+                     </p>
                      <list>
                         <pb facs="tcp:33517:22"/>
                         <pb n="19" facs="tcp:33517:22"/>
@@ -1287,20 +1297,31 @@ inches thick.</p>
                      <p>THE Pike is a Weapon where<g ref="char:EOLhyphen"/>with
 Foot defend themſelves
 againſt Horſe in an open Field.</p>
-                     <figure>
-                        <head>The Armature of a French Trooper.</head>
-                        <p>The Muſqueton.</p>
-                        <p>The Piſtoll.</p>
-                        <p>The Carabine.</p>
-                     </figure>
-                     <figure>
-                        <head>The Armature of a Pike man on his Guard.</head>
-                        <p>The Pike.</p>
-                        <p>The halfe Pike.</p>
-                        <p>The Quarter Staff.</p>
-                        <p>The Halbard.</p>
-                        <p>The Partiſan.</p>
-                     </figure>
+                     <p>The Pikes environ the Batallions on
+all ſides, and preſent the Pike to the
+<pb facs="tcp:33517:25"/>
+                        <figure>
+                           <head>The Armature of a French Trooper.</head>
+                           <p>The Muſqueton.</p>
+                           <p>The Piſtoll.</p>
+                           <p>The Carabine.</p>
+                        </figure>
+                        <pb facs="tcp:33517:26"/>
+                        <figure>
+                           <head>The Armature of a Pike man on his Guard.</head>
+                           <p>The Pike.</p>
+                           <p>The halfe Pike.</p>
+                           <p>The Quarter Staff.</p>
+                           <p>The Halbard.</p>
+                           <p>The Partiſan.</p>
+                        </figure>
+                        <pb n="25" facs="tcp:33517:26"/>
+height of the Horſes Counters, whilſt
+the Musketiers fire. A Horſe wound<g ref="char:EOLhyphen"/>ed
+by a Shot, is but thereby the more
+animated, but when he feels himſelf
+pricked with a Pike, all the Spurs in
+the World cannot make him advance.</p>
                      <p>
                         <hi>This Figure will ſhew the way of Pikes
 charging to the Horſe.</hi>
@@ -1416,13 +1437,25 @@ when one mounts an Aſſault or Sca-Lado.</p>
                         <hi>Of Sythes, Forkes, Axes, and Clubs,
 or Maces.</hi>
                      </head>
-                     <figure>
-                        <p>Clubs or Maſsues. A</p>
-                        <p>B</p>
-                        <p>The Axe. C</p>
-                        <p>The Forke. D</p>
-                        <p>Sithes. E</p>
-                     </figure>
+                     <p>SYthes, Forks, and Clubs, are like<g ref="char:EOLhyphen"/>wiſe
+uſed in a Sally, or in the de<g ref="char:EOLhyphen"/>fence
+of a Breach or hindering a Storm.
+The Sythes are not altogether like thoſe
+of Mowers, for their Staff or Handle
+<pb facs="tcp:33517:29"/>
+                        <figure>
+                           <p>Clubs or Maſsues. A</p>
+                           <p>B</p>
+                           <p>The Axe. C</p>
+                           <p>The Forke. D</p>
+                           <p>Sithes. E</p>
+                        </figure>
+                        <pb facs="tcp:33517:30"/>
+                        <pb n="29" facs="tcp:33517:30"/>
+is ſomewhat longer, and the Blades
+ſtreighter, or bending a little, after
+the manner of thoſe which the Tro<g ref="char:EOLhyphen"/>jans
+uſed of old.</p>
                      <q>
                         <p>—Quo turbine ceſtum Sauromates, falcemque Getes.</p>
                         <bibl>Stat. 11 Achill.</bibl>
@@ -1614,12 +1647,20 @@ they called <hi>Trameae,</hi> with a very
 and commodious, that they uſed to
 Fight with them at diſtance, and
 near at hand.</p>
-                     <figure>
-                        <head>The Armature of a Roman Souldier of the Triary.</head>
-                        <head>The Armature of a Slinger.</head>
-                        <p>The Lance.</p>
-                        <p>The Sling.</p>
-                     </figure>
+                     <p>The Macedonians carried long Pikes
+called <hi>Sariſſae,</hi> and from that it is
+<pb facs="tcp:33517:33"/>
+                        <pb facs="tcp:33517:34"/>
+                        <figure>
+                           <head>The Armature of a Roman Souldier of the Triary.</head>
+                           <head>The Armature of a Slinger.</head>
+                           <p>The Lance.</p>
+                           <p>The Sling.</p>
+                        </figure>
+                        <pb n="35" facs="tcp:33517:34"/>
+that <hi>Quintus Curtius</hi> calls the Soul<g ref="char:EOLhyphen"/>diers
+of <hi>Alexanders</hi> Guard <hi>Sariſſo<g ref="char:EOLhyphen"/>phori.</hi>
+                     </p>
                   </div>
                   <div n="3" type="section">
                      <head>Sect. 3.</head>
@@ -1751,12 +1792,28 @@ larger in the middle than elſewhere,
 its Figure was oval, and inſenſibly
 diminiſhed; it would caſt a Stone or
 Bullet Six hundred paces.</p>
-                     <figure>
-                        <head>The Croſs bow Man of the Antients.</head>
-                        <p>The Quiver.</p>
-                        <p>Bow and Arrows.</p>
-                        <p>Darts.</p>
-                     </figure>
+                     <p>The Iſlanders of <hi>Majorca</hi> and <hi>Mi<g ref="char:EOLhyphen"/>norca,</hi>
+                        <pb facs="tcp:33517:36"/>
+                        <pb facs="tcp:33517:37"/>
+                        <figure>
+                           <head>The Croſs bow Man of the Antients.</head>
+                           <p>The Quiver.</p>
+                           <p>Bow and Arrows.</p>
+                           <p>Darts.</p>
+                        </figure>
+                        <pb n="39" facs="tcp:33517:37"/>
+were the Inventers of Slings,
+and the moſt expert in throwing of
+Stones; for they were bred to that
+Exerciſe from their Infancy; and
+the Mothers never gave their Chil<g ref="char:EOLhyphen"/>dren
+any thing to eat but what
+they had beaten down before. There
+is mention made of Slings in Holy
+Scripture, and <hi>David</hi> made uſe of
+one when, he Fought againſt the
+Gyant <hi>Goliah.</hi>
+                     </p>
                   </div>
                   <div n="6" type="section">
                      <head>Sect. 6.</head>
@@ -1803,10 +1860,19 @@ on the left Shoulder.</p>
                      <head type="sub">
                         <hi>Of Croſs-bows.</hi>
                      </head>
-                     <figure>
-                        <head>The Armature of a Bow man of the Roman Allies.</head>
-                        <head>The Armature of a Roman Centurion.</head>
-                     </figure>
+                     <p>THE Ancients had two kinds of
+Croſs-bows, the one which ſhot
+<pb facs="tcp:33517:38"/>
+                        <figure>
+                           <head>The Armature of a Bow man of the Roman Allies.</head>
+                           <head>The Armature of a Roman Centurion.</head>
+                        </figure>
+                        <pb facs="tcp:33517:39"/>
+                        <pb n="41" facs="tcp:33517:39"/>
+Darts or Quarrels, and the other which
+threw Stones: Theſe were called <hi>Ba<g ref="char:EOLhyphen"/>liſtae,</hi>
+and the other <hi>Catapultae.</hi>
+                     </p>
                      <p>It would nevertheleſs ſeem (accor<g ref="char:EOLhyphen"/>ding
 to <hi>Appius</hi>) that the <hi>Catapulta</hi>
 ſerved to ſhoot both Darts and Stones;
@@ -1975,15 +2041,29 @@ habebant, ſed in veſte ſuccincta pug<g ref="char:EOLhyphen"/>nabant.</hi>
                      <head type="sub">
                         <hi>Of Casks or Head-pieces.</hi>
                      </head>
-                     <figure>
-                        <p>Helmet.</p>
-                        <p>Gorget</p>
-                        <p>Curiaſse.</p>
-                        <p>Thigh peeces or Taſset's.</p>
-                        <p>
-                           <g ref="char:V">Ʋ</g>ambraſse.</p>
-                        <p>Gantelet.</p>
-                     </figure>
+                     <p>THe Romans wore Head-pieces of
+Braſs or Iron, Proof againſt the
+Cuts of Shables; which they delighted
+to adorn with Feathers and Plumaches
+of ſeveral Colours, two foot high.
+The Souldiers thereby appeared half
+<pb facs="tcp:33517:42"/>
+                        <figure>
+                           <p>Helmet.</p>
+                           <p>Gorget</p>
+                           <p>Curiaſse.</p>
+                           <p>Thigh peeces or Taſset's.</p>
+                           <p>
+                              <g ref="char:V">Ʋ</g>ambraſse.</p>
+                           <p>Gantelet.</p>
+                        </figure>
+                        <pb facs="tcp:33517:43"/>
+                        <pb n="47" facs="tcp:33517:43"/>
+as high again, and ſtruck the enemy
+with greater fear; as <hi>Polibius</hi> affirms.
+<hi>Vir auplo major apparet, &amp; pulchra
+ea ſpecies fit, hoſtiq formidoloſa.</hi>
+                     </p>
                      <p>The Generals and principal Officers,
 wore Head-pieces guilt and ſet with
 precious Stones; the top whereof was
@@ -2036,12 +2116,42 @@ of whom ſome were Slingers, and o<g ref="char:EOLhyphen"/>thers
 Archers, were onely lightly
 armed, that is to ſay, with a Buckler
 and Helmet of Leather.</p>
-                     <figure>
-                        <p>Pelta.</p>
-                        <p>Parma.</p>
-                        <p>A Round Buckler or Ronache</p>
-                        <p>Sheilds</p>
-                     </figure>
+                     <p>The Cavalry was divided into the
+Light-Horſe; <hi>Levis Armatura,</hi> and
+the Gen-d'armes, who were called,
+<hi>Equites Cataphracti,</hi> becauſe they
+were armed from Head to Foot; and
+<pb facs="tcp:33517:44"/>
+                        <pb facs="tcp:33517:45"/>
+                        <figure>
+                           <p>Pelta.</p>
+                           <p>Parma.</p>
+                           <p>A Round Buckler or Ronache</p>
+                           <p>Sheilds</p>
+                        </figure>
+                        <pb n="49" facs="tcp:33517:45"/>
+rode on Barded and Capariſſoned Hor<g ref="char:EOLhyphen"/>ſes,
+after the manner of the Parthian
+Cavalry, whoſe Armature is by <hi>Sui<g ref="char:EOLhyphen"/>das</hi>
+deſcribed in this manner: <hi>Lorica
+parthi equitis eſt talis prior ejus pars
+pectus, &amp; femora, &amp; manus extre<g ref="char:EOLhyphen"/>mas
+&amp; crura tegit, poſterior tergum
+&amp; cervicem &amp; totum caput, &amp;c.</hi> That
+is the true deſcription of our Cuiraſ<g ref="char:EOLhyphen"/>ſes,
+Head-pieces, Vambraces, Gant<g ref="char:EOLhyphen"/>lets
+and Taſſes. <hi>Armant autem e<g ref="char:EOLhyphen"/>quum
+ſimiliter ferro, totum quidem
+&amp; vſ<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> ad ungulas.</hi> In my opinion
+they did not do much amiſs ſo to e<g ref="char:EOLhyphen"/>quippe
+their Horſes; becauſe a Troo<g ref="char:EOLhyphen"/>per
+in Armour is no more fit for any
+thing when once he is diſmounted.</p>
                   </div>
                   <div n="6" type="section">
                      <head>Sect. 6.</head>
@@ -2216,11 +2326,73 @@ thought fit next to diſcourſe
 of its effects, and of the way
 how it is to be uſed for Mines and
 Artificial Fires.</p>
-                  <figure>
-                     <head>Molet's to put at the end of a Torch.</head>
-                     <p>A Fire Arrow</p>
-                     <p>A Wall of Buſtion with a Mine.</p>
-                  </figure>
+                  <p>When there is a deſign of blowing
+up the Baſtions of a Place beſieged,
+by means of Mines and <hi>Fourneaus,</hi>
+there is firſt a Gallery made over the
+Foſs or Ditch, thereby to communi<g ref="char:EOLhyphen"/>cate
+<pb facs="tcp:33517:49"/>
+                     <figure>
+                        <head>Molet's to put at the end of a Torch.</head>
+                        <p>A Fire Arrow</p>
+                        <p>A Wall of Buſtion with a Mine.</p>
+                     </figure>
+                     <pb facs="tcp:33517:50"/>
+                     <pb n="57" facs="tcp:33517:50"/>
+with the Baſtion, to which the
+Miner is to be ſet at work. The firſt
+thing a Miner does, is to cover the
+place where he deſigns to make his
+hole, with two ſtrong Planks, guard<g ref="char:EOLhyphen"/>ed
+with Plates of Iron to ſecure him<g ref="char:EOLhyphen"/>ſelf
+againſt every thing that may be
+thrown down upon him from the
+Ramparts. Next he makes his lodging
+upon one of the Faces of the Baſtion
+towards the point, three foot high, and
+about two foot broad. He digs and
+chambers, untill he reach the middle
+or farther into the Wall, to the end
+the Mine may work the greater ef<g ref="char:EOLhyphen"/>fect;
+he digs and chambers alſo to the
+right and left in the thickneſs of the
+Wall, at leaſt ſix foot on each ſide,
+with the greateſt skill he can; and at
+the end of each Chamber he ſhall make
+a <hi>Fourneau</hi> or little Oven, according
+to the knowledge he has of the
+ſtrength of the Wall, in each where<g ref="char:EOLhyphen"/>of
+he puts between two and three
+hundred weight of Powder in Bags or
+Barrels, laying it as dry as he can
+upon Beds of Straw; afterward he
+<pb n="58" facs="tcp:33517:51"/>
+places his <hi>Sauciſſons,</hi> which are a
+kind of Stockings or Caſes of Linnen
+Cloath, an inch in diameter, filled
+with Powder, and whereof the end
+reaches to the Mouth or Entry of the
+Mine, and becauſe by theſe <hi>Sauciſſons</hi>
+the Fire is to be given to the Powder
+of the <hi>Fourneaus,</hi> the Miner ſhould
+cover them with Tiles or Planks of
+Wood to ſave them from being
+ſmothered: Next he is to ſhut the
+hole with good pieces of Wood, well
+propt and ſupported, to hinder the
+flaſhing out of the Fire, he is like<g ref="char:EOLhyphen"/>wiſe
+to faſten all with a great many
+Flints and hard Stones, made in form
+of a Swallous-Tail, that they may
+ſtick cloſe and not eaſily give way,
+when the Powder ſhall do its effect<g ref="char:punc">▪</g>
+if by chance he meet with counter<g ref="char:EOLhyphen"/>mines,
+which are to be found in ma<g ref="char:EOLhyphen"/>ny
+Baſtions, he muſt chamber over
+them, and leave between them and
+his Mine a ſufficient thickneſs to keep
+them from venting, and being made
+uſeleſs by the countermines.</p>
                   <p>When a Mine is made in a place
 <pb n="59" facs="tcp:33517:51"/>
 where the earth is ſoft and yielding,
@@ -3252,16 +3424,19 @@ the Figure.</p>
 twelve inches long, and without the
 Breech ſeven inches and a half wide,
 and within five. The Metal at the</p>
-                     <figure>
-                        <p>Bombes.</p>
-                        <p>a Morter Peice.</p>
-                        <p>Hollow Bullet.</p>
-                        <p>Grenade.</p>
-                        <p>Petard.</p>
-                        <p>Carcaſse.</p>
-                        <p>Cartouche.</p>
-                        <p>Chaine Bullets.</p>
-                     </figure>
+                     <p>
+                        <pb facs="tcp:33517:70"/>
+                        <figure>
+                           <p>Bombes.</p>
+                           <p>a Morter Peice.</p>
+                           <p>Hollow Bullet.</p>
+                           <p>Grenade.</p>
+                           <p>Petard.</p>
+                           <p>Carcaſse.</p>
+                           <p>Cartouche.</p>
+                           <p>Chaine Bullets.</p>
+                        </figure>
+                     </p>
                      <p>
                         <pb facs="tcp:33517:71"/>
                         <pb n="95" facs="tcp:33517:71"/>
@@ -3320,13 +3495,22 @@ the Mouth of the Petard, which is to
 be tied very faſt with a cord about
 the Muzzel, leaſt the Charge drop
 out.</p>
-                     <figure>
-                        <p>a Flying Bridg.</p>
-                        <p>a Crow's foot or Caſting Caltrop.</p>
-                        <p>a Turn Pike.</p>
-                        <p>a Percullis.</p>
-                        <p>a Battering Ram. </p>
-                     </figure>
+                     <p>The Fuſe ought to be ſlow, that
+the Petardier may have time to with<g ref="char:EOLhyphen"/>draw
+<pb facs="tcp:33517:72"/>
+                        <pb facs="tcp:33517:73"/>
+                        <figure>
+                           <p>a Flying Bridg.</p>
+                           <p>a Crow's foot or Caſting Caltrop.</p>
+                           <p>a Turn Pike.</p>
+                           <p>a Percullis.</p>
+                           <p>a Battering Ram. </p>
+                        </figure>
+                        <pb n="97" facs="tcp:33517:73"/>
+before the Petard plays. The
+manner of the compoſition of the Fuſe
+is to be found in the <hi>Chapter of Fire-works,
+Book</hi> 2. <hi>Chap.</hi> 3. <hi>Sect.</hi> 1.</p>
                   </div>
                   <div n="2" type="section">
                      <head>Sect. 2.</head>
@@ -3884,14 +4068,18 @@ the Third, when he made him Pro<g ref="char:EOLhyphen"/>tector
 and Defender of the Church of
 Saint <hi>Peter.</hi>
                      </p>
-                     <figure>
-                        <p>Guidon</p>
-                        <p>Enſeigne</p>
-                        <p>Coulours</p>
-                        <p>Standard</p>
-                        <p>Gonfanon or Standard of the Church</p>
-                        <p>Oriflame, or the Royall Ban<g ref="char:EOLhyphen"/>ner of S<hi rend="sup">t</hi>. Denys.</p>
-                     </figure>
+                     <p>
+                        <pb facs="tcp:33517:83"/>
+                        <pb facs="tcp:33517:84"/>
+                        <figure>
+                           <p>Guidon</p>
+                           <p>Enſeigne</p>
+                           <p>Coulours</p>
+                           <p>Standard</p>
+                           <p>Gonfanon or Standard of the Church</p>
+                           <p>Oriflame, or the Royall Ban<g ref="char:EOLhyphen"/>ner of S<hi rend="sup">t</hi>. Denys.</p>
+                        </figure>
+                     </p>
                   </div>
                   <div n="2" type="section">
                      <pb n="117" facs="tcp:33517:84"/>
@@ -3996,12 +4184,16 @@ the Baggage, and every Regi<g ref="char:EOLhyphen"/>ment
 ought to have one of its Colour,
 which conducts the Baggage to the
 <hi>Faillion</hi> General.</p>
-                     <figure>
-                        <p>S. P. Q. R.</p>
-                        <p>The Enſigne of the Roman Horſe.</p>
-                        <p>The Enſigne of the Manipule.</p>
-                        <p>The Enſigne of the Roman Legion.</p>
-                     </figure>
+                     <p>
+                        <pb facs="tcp:33517:86"/>
+                        <pb facs="tcp:33517:87"/>
+                        <figure>
+                           <p>S. P. Q. R.</p>
+                           <p>The Enſigne of the Roman Horſe.</p>
+                           <p>The Enſigne of the Manipule.</p>
+                           <p>The Enſigne of the Roman Legion.</p>
+                        </figure>
+                     </p>
                   </div>
                </div>
                <div n="2" type="chapter">
